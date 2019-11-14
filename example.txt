@@ -4,6 +4,10 @@ I am liking what I am seeing and learning
 
 Cheers
 
+Now let me try to add more text to this file and commit it to the example branch
+
+
+
 
 
 
