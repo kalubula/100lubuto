@@ -106,4 +106,4 @@ A reference guide for Vim at least 10 commands
 |Summary |Bwalya|	
 
 
-# `` DO NOT FORGET TO USE APPROPRIET CITATIONS WHERE NECESSARY ************************** ``
+# `` DO NOT FORGET TO USE APPROPRIATE CITATIONS WHERE NECESSARY ************************** ``
