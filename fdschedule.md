@@ -1,4 +1,4 @@
-# PROJECT COURSE
+# COURSE PROJECT
  # Foundations of Development: Windows, Linux, Docker and GIT
  # **```TASK SCHEDULE```** 
 
