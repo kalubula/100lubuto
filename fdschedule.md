@@ -17,7 +17,7 @@ ___
 | Git Commands  |  Lindon |
 | Docker Commands |  Lungu |
 | Powershell  |Lindon   |
-| Bash |Lungu  |
+| Bash |Dean  |
 |Summary| Bwalya|
 
 * TASK 2
@@ -34,8 +34,8 @@ A blog post that compares containerization with virtualization and explains the 
 | What is Containerisation|  Lindon |
 | Pros of Virtualisations |Lindon   |
 | Cons of Virtualisation |Bwalya |
-| Pros of Containerisation | Lungu |
-| Cons of Containerisation | Lungu |
+| Pros of Containerisation | Dean |
+| Cons of Containerisation | Dean |
 |Summary|Bwalya|
 
 *TASK 3
@@ -49,9 +49,9 @@ A blog post that compares containerization with virtualization and explains the 
 |Synchronizing your local repository with GitHub | Bwalya|
 |Changing and adding files |	Lindon |
 | Check out a repository from GitHub |	Lindon |
-| Creating branches for developing and testing new features | 	Lungu
-| Merging Branches |	Lungu
-| Undoing changes |	Lungu
+| Creating branches for developing and testing new features | 	Dean 
+| Merging Branches |	Dean
+| Undoing changes |	Dean
 | Tags and releases |	Lindon
 | Summary	| Bwalya |
 
@@ -67,7 +67,7 @@ A step-by-step tutorial on how to use Vim to create and edit files from the Linu
 | --------| --------|
 |Introduction |	Bwalya |
 |Creating and adding content to the file |	Lindon |
-| Editing a file |	Lungu |
+| Editing a file |	Dean |
 | Summary |	Bwalya |
 
 * TASH 2
@@ -86,8 +86,8 @@ A reference guide for Vim at least 10 commands
 |What is Vim and why you need it? |	Lindon | |
 |Moving in Vim (cursor movements in Vim) |	Bwalya | |
 |Editing in Vim| | |
--	|Text entry commands|Lungu|
--	|Exit commands|Lungu|
+-	|Text entry commands|Dean|
+-	|Exit commands|Dean|
 -	|Text Deletion commands| Bwalya|
 -	|File manipulation commands|Lindon|	
 |Summary |	Bwalya |
@@ -102,7 +102,7 @@ A reference guide for Vim at least 10 commands
 |Introduction| Bwalya|	
 |Docker Installation|Bwalya|	
 |Creating and sharing a Docker repository| Lindon |	
-|Sharing image	| Lungu |
+|Sharing image	|Dean |
 |Summary |Bwalya|	
 
 
