@@ -11,7 +11,7 @@ ___
  A reference guide that demonstrates at least 10 commands used to work with GIT, Docker, PowerShell, and Bash respectively.
  ```
 
-| UNIT OF WORK | TEAM MEMBER |
+| UNIT OF WORK | TEAM MEMBER | 
 | ------ | -------- |
 | Introduction  | Bwalya   |
 | Git Commands  |  Lindon |
