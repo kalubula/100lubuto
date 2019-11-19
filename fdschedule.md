@@ -87,7 +87,7 @@ A reference guide for Vim at least 10 commands
 |Moving in Vim (cursor movements in Vim) ||	Bwalya | 
 |Editing in Vim| | |
 |-	Text entry commands||Dean|
-|-	Exit commands||Lungu|
+|-	Exit commands||Dean|
 |-	Text Deletion commands|| Bwalya|
 |-	File manipulation commands||Lindon|	
 |Summary ||	Bwalya |
