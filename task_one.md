@@ -1,6 +1,6 @@
-Task 1:A reference guide that demonstrates at least 10 commands used to work with GIT, Docker, PowerShell, and Bash respectively.
- GIT COMMANDS:
-The command to *initialize* the GIT repository is:
+Task 1: A reference guide that demonstrates at least 10 commands used to work with GIT, Docker, PowerShell, and Bash respectively.
+GIT COMMANDS:
+|The command to *initialize* the GIT repository is:|
 	git init
 	[Screenshot of git clone example](/images/git_clone.png)
 To put the markdown file 'task_one.md' on the stage the command to use is:
