@@ -1,5 +1,5 @@
 ## Task 2: 
-### Containirization
+### Containilization
 To deploy an application you use containirization or visualization.
 Containirization is the process of storing, transporting and running a uniform structure. 
 The container encapsulates an application with it's own operating evironment which can be run on any host machine.
