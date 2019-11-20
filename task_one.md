@@ -27,10 +27,10 @@ git push origin master
 git dir
 ![See snapshot](/images/dir.png)
 ### The git command to add images from my image folder and send to github:
-*git add images
-*git commit -m "Fix"
-*git push origin master
-! [Git images](/images/git_images.png)
-### For more information on git commands:
+#### git add images
+#### git commit -m "Fix"
+#### git push origin master
+![Git images](/images/git_images.png)
+### For more information:
 [Refer to the following link for more information about git commands](https://github.com/joshnh/Git-Commands)
 
