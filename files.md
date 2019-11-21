@@ -5,6 +5,10 @@ Task 3: A step-by-step tutorial on how to use GitFlow process with GIT and Githu
 	#### The command to create a text file in windows powershell is :
 	cd >myfile.txt
 	#### see snapshot of file being created in powershell and shown in windows explorer:
-	![Creating file image](/images/files.png)
+    ![Creating file image](/images/files.png)
+	#### To navigate to myfile.txt use the command:
+	start myfile.txt
+	#### The empty file will be openned in notedpad and can be edited:
+	! [ Open file with powershell ](/images/open_file.png)
  - [x] checkout repository from GitHub
  - [x] Tags and release
