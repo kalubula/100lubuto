@@ -37,6 +37,14 @@
      1. yy	Copy a line
      1. dd	Delete a line
      1. :wq	quit and save changes
+	 
+ - [x] File manipulation commands:
+     1. cp - copy files and directories
+     1. mv - move or rename files and directories
+     1. rm - remove files and directories
+     1. mkdir - create directories
+	
+	
 
 	
 	
