@@ -12,6 +12,6 @@ Task 3: A step-by-step tutorial on how to use GitFlow process with GIT and Githu
 	#### To navigate to myfile.txt use the command:
 	start myfile.txt
 	#### The empty file will be openned in notedpad and can be edited:
-	! [ Open file with powershell ](/images/open_file.png)
+	![ Open file with powershell ](/images/open_file.png)
  - [x] checkout repository from GitHub
  - [x] Tags and release
