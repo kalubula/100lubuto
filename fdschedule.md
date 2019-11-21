@@ -70,7 +70,7 @@ A step-by-step tutorial on how to use Vim to create and edit files from the Linu
 | Editing a file |	Dean |
 | Summary |	Bwalya |
 
-* TASH 2
+* TASK 2
 
 ```` BASH
 
