@@ -34,7 +34,7 @@ Task 3: A step-by-step tutorial on how to use GitFlow process with GIT and Githu
 	git checkout branch_name
 	#### Where branch_name is the name of your branch
  - [x] Tags and release
-	#### You can list the existing by using the command :
+	#### You can list the existing tags by using the command :
 	git tag
 	#### Git supports two types of tags: Annotated tag and lightweight
 	#### To create an Annotated tag  specify -a when you run the tag command::
@@ -48,6 +48,6 @@ Task 3: A step-by-step tutorial on how to use GitFlow process with GIT and Githu
 	##### Tags can be pushed to the server to be shared by running:
 	git push origin tag_name
     ### For more resources on Markdown:
-	[visit](https://guides.github.com/features/mastering-markdown/#examples)
+	[Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 	### For resources on git tagging:
-	[visit](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+	[Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
