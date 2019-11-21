@@ -8,8 +8,9 @@
 	 With vim errors are minimized what you enter is what you get. 
      Using text editors such as notepad or word can introduce characters difficult to read.
      By using the insert feature of vim, mistakes are reduced because you only insert when you enable
-     the window to insert mode by pressing i. The is no room for special characters or spaces.
-	 In docker Desktop switch to linux container and in settings switch shared to c:/
+     the window to insert mode by pressing i. There is no room for special characters or spaces.
+	 
+	 To get started using vim go to docker Desktop switch to linux container and in settings switch shared to c:/
 	 In docker download ubuntu server by using the powershell command:
 	 docker pull ubuntu
 	
