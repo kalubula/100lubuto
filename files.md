@@ -13,5 +13,19 @@ Task 3: A step-by-step tutorial on how to use GitFlow process with GIT and Githu
 	start myfile.txt
 	#### The empty file will be openned in notedpad and can be edited:
 	![ Open file with powershell ](/images/open_file.png)
+	#### After successfully adding files you can change to the file you want to edit.
+	#### First list the files in your directory to see the files you have by using the command:
+	dir
+	#### The snapshot demonstates the use of the command dir to list the files:
+	![ list of files ](/images/list.png)
+	#### After navigating to the file of your choice you can stage for commit using git by running:
+	git add myfile.txt
+	![ Staging file for commit ](/images/stage_file.png)
+	#### And commit it 
+	git commit -m "Fix"
+	#### Where -m is the commit message
+	#### Finally push you changes the to github respository on master branch or specific branch:
+	git push origin master
+	
  - [x] checkout repository from GitHub
  - [x] Tags and release
