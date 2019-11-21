@@ -7,8 +7,8 @@ Task 3: A step-by-step tutorial on how to use GitFlow process with GIT and Githu
 	#### To navigate to myfile.txt use the command:
 	start myfile.txt
 	#### The image below demonstates the result of running the command, an empty myfile.txt is open for edit.
-	#### see snapshot of file being created in powershell and shown in windows explorer:
-    ![Creating file image](/images/files.png)
+	     Snapshot of file being created in powershell and shown in windows explorer:
+    ![ Creating file image ](/images/file.png)
 	#### To navigate to myfile.txt use the command:
 	start myfile.txt
 	#### The empty file will be openned in notedpad and can be edited:
