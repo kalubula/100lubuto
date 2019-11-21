@@ -27,15 +27,16 @@
     root@4f789aefb15d:/my_vol# touch newfile.txt
     root@4f789aefb15d:/my_vol# vi newfile.txt
  - [x] Creating and adding content to the file
+ 
     #### Vim Command Description
- - [x] i	Enter insert mode
- - [x] x or Del	Delete a character
- - [x] X	Delete character is backspace mode
- - [x] u	Undo changes
- - [x] Ctrl + r	Redo changes
- - [x] yy	Copy a line
- - [x] dd	Delete a line
- - [x] :wq	quit and save changes
+     i	Enter insert mode
+     x or Del	Delete a character
+     X	Delete character is backspace mode
+     u	Undo changes
+     Ctrl + r	Redo changes
+     yy	Copy a line
+     dd	Delete a line
+     :wq	quit and save changes
 
 	
 	
