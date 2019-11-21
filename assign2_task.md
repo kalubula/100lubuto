@@ -11,14 +11,16 @@
      the window to insert mode by pressing i. The is no room for special characters or spaces.
 	 In docker Desktop switch to linux container and in settings switch shared to c:/
 	 In docker download ubuntu server by using the powershell command:
-	docker pull ubuntu
-	![ Docker pull ubuntu command ](/images/pull_ubuntu.png)
-	#### Start an interactive terrminal -t and mount the volume -v here:  my_vol. Use the command:
+	 docker pull ubuntu
+	
+	Start an interactive terrminal -t and mount the volume -v here:  my_vol. Use the command:
 	docker run -i -t -v c:/src/my_vol ubuntu
-	#### Install vim:
-	#### First run apt-get update:
+	
+	Install vim:
+	
+	First run apt-get update:
 	apt-get update 
-	#### Then:
+	Then:
 	apt-get install vim
 	root@4f789aefb15d:/# cd my_vol
     root@4f789aefb15d:/my_vol# touch newfile.txt
