@@ -29,14 +29,14 @@
  - [x] Creating and adding content to the file
  
     #### Vim Command Description
-     i	Enter insert mode
-     x or Del	Delete a character
-     X	Delete character is backspace mode
-     u	Undo changes
-     Ctrl + r	Redo changes
-     yy	Copy a line
-     dd	Delete a line
-     :wq	quit and save changes
+     1. i	Enter insert mode
+     1. x or Del	Delete a character
+     1. X	Delete character is backspace mode
+     1. u	Undo changes
+     1. Ctrl + r	Redo changes
+     1. yy	Copy a line
+     1. dd	Delete a line
+     1. :wq	quit and save changes
 
 	
 	
