@@ -28,4 +28,26 @@ Task 3: A step-by-step tutorial on how to use GitFlow process with GIT and Githu
 	git push origin master
 	
  - [x] checkout repository from GitHub
+	#### To get a copy of the repository to your local machine you can run the following command:
+	git clone https://github.com/Lindo21/
+	#### You can navigate to a specific branch on git by using:
+	git checkout branch_name
+	#### Where branch_name is the name of your branch
  - [x] Tags and release
+	#### You can list the existing by using the command :
+	git tag
+	#### Git supports two types of tags: Annotated tag and lightweight
+	#### To create an Annotated tag  specify -a when you run the tag command::
+	git tag -a v1 -m "Version 1"
+	#### You can run git show to see details of your tag v1:
+	git show v1
+	#### Lightweight tags
+	#### To create a tag just provide a tag:
+	git tag v1
+	#### Sharing tags:
+	##### Tags can be pushed to the server to be shared by running:
+	git push origin tag_name
+    ### For more resources on Markdown:
+	[visit](https://guides.github.com/features/mastering-markdown/#examples)
+	### For resources on git tagging:
+	[visit](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
