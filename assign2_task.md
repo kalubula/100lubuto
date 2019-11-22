@@ -10,17 +10,28 @@
      By using the insert feature of vim, mistakes are reduced because you only insert when you enable
      the window to insert mode by pressing i. There is no room for special characters or spaces.
 	 
-	 To get started using vim go to docker Desktop switch to linux container and in settings switch shared to c:/
-	 In docker download ubuntu server by using the powershell command:
-	 docker pull ubuntu
+	 First step install git for windows:
+	Launch : 
+	For first use configure git using the command git config --global user.name "Lindon"
+	The other setting to configure is the email: git config --global user.email "lindonngonga@gmail.com"
+	Check if the configurations are set correctly or not: git config --list
+	At the bottom of the print out the username and email has been picked up the way I wanted to be picked up.
+	pwd to see am the user
+	Create a folder for my repository : mkdir git_repo
+	Navigate to the folder created git_repo cd git_repo I use this folder for creating all other repositories.
+	I will make my first repository called first_repo : mkdir first_repo
+	Navigate to the empty folder 'first_repo': cd first_repo
+	To create a repository run: git init This will create a hidden folder .git
+	To create files within this folder use : Touch first_file.txt
+	I can open it up in notepad: notepad first_file.txt
+	and make some edits and save it.
+	
+
+	To get started using vim go run: apt-get update 
+	and then run: apt-get install vim
 	
 	Start an interactive terrminal -t and mount the volume -v here:  my_vol. Use the command:
 	docker run -i -t -v c:/src/my_vol ubuntu
-	
-	Install vim:
-	
-	First run apt-get update:
-	apt-get update 
 	Then:
 	apt-get install vim
 	root@4f789aefb15d:/# cd my_vol
